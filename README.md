@@ -1,5 +1,5 @@
 <h1 align="center">Oi, bem vindx por aqui!</h1>
-<h4 align="center">🎲 Apaixonada por análise e visualização de dados</h4>
+<h4 align="center">🎲 Repositório de uma apaixonada por análise e visualização de dados.</h4>
 
 <br />
 
